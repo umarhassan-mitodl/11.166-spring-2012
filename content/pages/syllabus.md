@@ -133,4 +133,4 @@ Required Books
 
 Rosenberg, Gerald. _The Hollow Hope: Can Courts Bring About Social Change?_ University of Chicago Press, 2008. ISBN: 9780226726717.
 
-O'Brien, Robert, Anne Marie Goetz, et al. _Contesting Global Governance: Multilateral Economic Institutions and Global Social Movements._ Cambridge University Press, 2000. ISBN: 9780521774406. \[Preview with [Google Books](http://books.google.com/books?id=2VD2PSvEdYsC&printsec=frontcover)\]
+O'Brien, Robert, Anne Marie Goetz, et al. _Contesting Global Governance: Multilateral Economic Institutions and Global Social Movements._ Cambridge University Press, 2000. ISBN: 9780521774406. \[Preview with {{% resource_link "104968c0-9795-4049-bf80-ce8ee82e452a" "Google Books" %}}\]
