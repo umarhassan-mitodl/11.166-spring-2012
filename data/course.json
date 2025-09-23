@@ -1,0 +1,75 @@
+{
+  "term": "Spring",
+  "year": "2012",
+  "level": [
+    "Undergraduate",
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Economics"
+    ],
+    [
+      "Social Science",
+      "Legal Studies"
+    ],
+    [
+      "Social Science",
+      "Political Science",
+      "Comparative Politics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Labor Economics"
+    ],
+    [
+      "Social Science",
+      "Economics",
+      "Political Economy"
+    ],
+    [
+      "Social Science",
+      "Sociology",
+      "Social Justice"
+    ],
+    [
+      "Society",
+      "Gender Studies"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "legacy_uid": "0cb7e94b-d726-9559-a411-f317eb2838ea",
+  "instructors": {
+    "content": [
+      "24deb6b7-2749-e2ba-080c-7dd80b12d082"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "e7f04f19-f603-0f50-8851-45747e3910d4",
+    "website": "11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012"
+  },
+  "course_title": "Law, Social Movements, and Public Policy: Comparative and International Experience",
+  "course_description": "This course studies the interaction between law, courts, and social movements in shaping domestic and global public policy. Examines how groups mobilize to use law to affect change and why they succeed and fail. The class uses case studies to explore the interplay between law, social movements, and public policy in current areas such as gender, race, labor, trade, environment, and human rights. Finally, it introduces the theories of public policy, social movements, law and society, and transnational studies.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "11.496",
+  "primary_course_number": "11.166",
+  "course_image_thumbnail": {
+    "content": "24ff28a3-f37d-139f-70b4-89c0b4a304c2",
+    "website": "11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012"
+  },
+  "learning_resource_types": [
+    "Written Assignments with Examples"
+  ],
+  "site_uid": "2375caa6-5191-4c9c-b7f8-24a6bd8bda5a",
+  "site_short_id": "11.166-spring-2012",
+  "site_url_path": "courses/11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012",
+  "title": "Course Metadata"
+}
