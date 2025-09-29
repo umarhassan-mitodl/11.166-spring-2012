@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on assignments for undergraduates,
   assignments for graduate students, and a sample paper written by a student.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
