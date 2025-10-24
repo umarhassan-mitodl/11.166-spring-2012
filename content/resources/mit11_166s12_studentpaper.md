@@ -5,8 +5,6 @@ description: Example of student work for a writing assignment on social movement
 file: /courses/11-166-law-social-movements-and-public-policy-comparative-and-international-experience-spring-2012/5589242df5b368dcaa59e877262f4748_MIT11_166S12_studentpaper.pdf
 file_size: 480060
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
